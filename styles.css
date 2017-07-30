@@ -1,0 +1,12 @@
+body{
+
+  background-image: url('imge.jpg');
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0
+
+}
+h1{
+  color: #232323;
+}
