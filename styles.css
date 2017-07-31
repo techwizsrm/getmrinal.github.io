@@ -1,10 +1,23 @@
+.navbar-default{
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color:transparent;
+  border-color: transparent;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    /*background-color: #FFFF00;*/
+    color: #607D8B;
+}
+.navbar-default .navbar-nav>li>a{
+  color: #424242;
+  font-size: 20px;
+}
 body{
 
   background-image: url('imge2.jpg');
-
   background-repeat: no-repeat;
-  background-size:100%;
-  margin: 0
+  background-size: 100%;
+
 
 }
 h1{
